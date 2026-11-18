@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01-uniasis-login.png",
+    "page_url": "https://uniasis.onrender.com/login",
+    "source_url": "https://uniasis.onrender.com/login",
+    "system": "UniAxis",
+    "title_ar": "شاشة دخول UniAxis — اختيار الدور",
+    "ux_comment_ar": "المرجع الأساسي: هوية جامعية داكنة هادئة مع شعار الجامعة واختيار الدور قبل الدخول. ما يُقتبس: وضوح الأدوار الستة كبطاقات، والتباين العالي. ما يُتجنب: إخفاء حقول الدخول خلف خطوة اختيار إضافية."
+  },
+  {
+    "file": "02-grafana-github.png",
+    "page_url": "https://play.grafana.org/d/cdgx261sa1ypsa/github-single-repo-with-overrides",
+    "source_url": "https://play.grafana.org/d/cdgx261sa1ypsa/github-single-repo-with-overrides",
+    "system": "Grafana Play",
+    "title_ar": "لوحة Grafana — بيانات GitHub الحية",
+    "ux_comment_ar": "لوحة داكنة بشريط جانبي ثابت وجدول بيانات ملوّن حسب الحالة (مفتوح/مغلق). ما يُقتبس: تلوين خلايا الحالة بدل النص فقط، وفلترة زمنية أعلى الصفحة. ما يُتجنب: كثرة اللوحات التوضيحية النصية قبل البيانات."
+  },
+  {
+    "file": "03-matomo-analytics.png",
+    "page_url": "https://demo.matomo.org/",
+    "source_url": "https://demo.matomo.org/",
+    "system": "Matomo Demo",
+    "title_ar": "لوحة تحليلات Matomo — الزيارات لحظياً",
+    "ux_comment_ar": "قائمة جانبية مصنّفة حسب الوظيفة مع بطاقات رسومية وجدول تفصيلي وخريطة زوار. ما يُقتبس: تجميع التقارير في أقسام واضحة، وعرض الزيارات اللحظية. ما يُتجنب: ازدحام الصفحة بأكثر من ثلاث بطاقات في الصف الواحد."
+  },
+  {
+    "file": "04-adminlte-dashboard.png",
+    "page_url": "https://adminlte.io/themes/v3/",
+    "source_url": "https://adminlte.io/themes/v3/",
+    "system": "AdminLTE 3",
+    "title_ar": "لوحة AdminLTE — بطاقات إحصائية ورسوم بيانية",
+    "ux_comment_ar": "بطاقات إحصائية ملوّنة بأرقام كبيرة مع رسم بياني وخريطة ومحادثة. ما يُقتبس: الرقم الكبير أولاً ثم التسمية، وزر «المزيد» في كل بطاقة. ما يُتجنب: الألوان الصارخة للبطاقات في نظام جامعي هادئ."
+  },
+  {
+    "file": "05-adminlte-datatable.png",
+    "page_url": "https://adminlte.io/themes/v3/pages/tables/data.html",
+    "source_url": "https://adminlte.io/themes/v3/pages/tables/data.html",
+    "system": "AdminLTE 3",
+    "title_ar": "جدول بيانات AdminLTE — فرز وترقيم صفحات",
+    "ux_comment_ar": "جدول كثيف قابل للفرز مع ترقيم صفحات وعدد الصفوف الظاهر. ما يُقتبس: تثبيت رأس الجدول، وإظهار «عرض 1 إلى 10 من 57» بوضوح. ما يُتجنب: عرض كل الصفوف دفعة واحدة دون ترقيم."
+  },
+  {
+    "file": "06-tabler-dashboard.png",
+    "page_url": "https://preview.tabler.io/",
+    "source_url": "https://preview.tabler.io/",
+    "system": "Tabler",
+    "title_ar": "لوحة Tabler — مؤشرات ورسوم مصغّرة",
+    "ux_comment_ar": "بطاقات نظيفة بخطوط مصغّرة (Sparkline) ومؤشر دائري لنسبة النشاط. ما يُقتبس: الرسوم المصغّرة داخل البطاقة لإظهار الاتجاه دون رسم كبير. ما يُتجنب: الرسوم التوضيحية الكرتونية في بطاقة الترحيب."
+  },
+  {
+    "file": "07-tailadmin-ecommerce.png",
+    "page_url": "https://demo.tailadmin.com/",
+    "source_url": "https://demo.tailadmin.com/",
+    "system": "TailAdmin",
+    "title_ar": "لوحة TailAdmin — قائمة مجمّعة ومؤشر هدف",
+    "ux_comment_ar": "قائمة جانبية مجمّعة حسب الأقسام مع بحث بالأوامر ومؤشر هدف دائري. ما يُقتبس: تجميع القائمة في مجموعات (لوحات/تطبيقات)، وشريط البحث أعلى الصفحة. ما يُتجنب: شارات «جديد» الكثيرة التي تشتت الانتباه."
+  },
+  {
+    "file": "08-adminkit-analytics.png",
+    "page_url": "https://demo.adminkit.io/",
+    "source_url": "https://demo.adminkit.io/",
+    "system": "AdminKit",
+    "title_ar": "لوحة AdminKit التحليلية — تقويم وخريطة زوار",
+    "ux_comment_ar": "بطاقات إحصائية مع نسب التغيّر، وتقويم وخريطة زوار ورسم دائري للمتصفحات في صف واحد. ما يُقتبس: نسبة التغيّر بلون أخضر/أحمر بجانب كل رقم، والجمع بين التقويم والخريطة. ما يُتجنب: إخفاء إعدادات المظهر في درج يغطي اللوحة عند أول فتح."
+  },
+  {
+    "file": "09-sneat-analytics.png",
+    "page_url": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+    "source_url": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+    "system": "Sneat",
+    "title_ar": "لوحة Sneat التحليلية — إيرادات ونمو",
+    "ux_comment_ar": "رسم أعمدة لمقارنة سنتين مع مؤشر نمو دائري وبطاقات معاملات. ما يُقتبس: مقارنة السنة الحالية بالسابقة في رسم واحد، وتبديل السنة من قائمة منسدلة. ما يُتجنب: زر «الترقية» العائم فوق المحتوى."
+  },
+  {
+    "file": "10-plainadmin-ecommerce.png",
+    "page_url": "https://demo.plainadmin.com/",
+    "source_url": "https://demo.plainadmin.com/",
+    "system": "PlainAdmin",
+    "title_ar": "لوحة PlainAdmin — إحصاءات سنوية ومبيعات",
+    "ux_comment_ar": "تصميم خفيف وبسيط: أربع بطاقات إحصائية ثم رسمان كبيران للإحصاءات السنوية والمبيعات. ما يُقتبس: البساطة والمساحات البيضاء، وفلتر «سنوي» لكل رسم. ما يُتجنب: تكرار الرقم نفسه في أكثر من بطاقة دون معنى مختلف."
+  }
+]

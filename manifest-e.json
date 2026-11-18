@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01-discourse-try-latest.png",
+    "page_url": "https://try.discourse.org/",
+    "source_url": "https://try.discourse.org/",
+    "system": "Discourse Demo",
+    "title_ar": "منتدى Discourse التجريبي — قائمة أحدث المواضيع",
+    "ux_comment_ar": "قائمة جانبية للتصنيفات والقنوات مع تبويبات «الأحدث/الساخن/التصنيفات» وموضوع مثبّت أعلى القائمة. ما يُقتبس: تثبيت الإعلانات المهمة في الأعلى، وشارة «مثبّت» واضحة. ما يُتجنب: عناوين مواضيع تجريبية بلا معنى في صفحة حقيقية."
+  },
+  {
+    "file": "02-elastic-discourse-latest.png",
+    "page_url": "https://discuss.elastic.co/latest",
+    "source_url": "https://discuss.elastic.co/latest",
+    "system": "Elastic Discuss (Discourse)",
+    "title_ar": "منتدى Elastic — أحدث النقاشات مع تصنيف الإعلانات",
+    "ux_comment_ar": "قائمة مواضيع بأعمدة الردود والمشاهدات وآخر نشاط، مع تصنيف «الإعلانات» في القائمة الجانبية وموضوع ترحيبي مثبّت. ما يُقتبس: أعمدة الردود والمشاهدات والنشاط في صف واحد، وتمييز المواضيع المثبّتة بقفل وشارة. ما يُتجنب: ازدحام القائمة الجانبية بوسوم كثيرة."
+  },
+  {
+    "file": "03-flarum-discussions.png",
+    "page_url": "https://discuss.flarum.org/",
+    "source_url": "https://discuss.flarum.org/",
+    "system": "Flarum Community",
+    "title_ar": "مجتمع Flarum — قائمة النقاشات وإحصاءات المجتمع",
+    "ux_comment_ar": "بطاقة «تحتاج مساعدة؟» مع بحث ودليل استكشاف أخطاء، وقائمة أسئلة بلا إجابة، ولوحة إحصاءات وأفضل المساهمين. ما يُقتبس: قسم «ساعد الآخرين» للأسئلة المعلّقة، وإحصاءات المجتمع الحية. ما يُتجنب: بانر الترحيب الكبير الذي يدفع النقاشات أسفل الشاشة."
+  },
+  {
+    "file": "04-nodebb-try-topics.png",
+    "page_url": "https://try.nodebb.org/",
+    "source_url": "https://try.nodebb.org/",
+    "system": "NodeBB Demo",
+    "title_ar": "منتدى NodeBB التجريبي — تصنيفات النقاش وشريط إعلان",
+    "ux_comment_ar": "شريط إعلان أصفر أعلى الصفحة يشرح حالة النظام، وتحته تصنيفات بأعداد المواضيع والمشاركات وآخر مشاركة. ما يُقتبس: شريط إعلان بارز ومختصر للإعلانات المهمة، وعرض عدد المواضيع والمشاركات لكل قسم. ما يُتجنب: ترك أقسام فارغة بلا محتوى في العرض الأول."
+  },
+  {
+    "file": "05-grafana-community-latest.png",
+    "page_url": "https://community.grafana.com/latest",
+    "source_url": "https://community.grafana.com/latest",
+    "system": "Grafana Community (Discourse)",
+    "title_ar": "مجتمع Grafana — إعلان استبيان ومواضيع إعلانية مثبّتة",
+    "ux_comment_ar": "بطاقة إعلان زرقاء قابلة للإغلاق أعلى القائمة، ومواضيع إعلانية مثبّتة مع شارة التصنيف وعدد الردود والمشاهدات. ما يُقتبس: بطاقة الإعلان القابلة للإغلاق بزر X، وتمييز الإعلانات الرسمية عن النقاشات العادية. ما يُتجنب: إعلان طويل يحتل نصف الشاشة قبل وصول القائمة."
+  },
+  {
+    "file": "06-home-assistant-community.png",
+    "page_url": "https://community.home-assistant.io/latest",
+    "source_url": "https://community.home-assistant.io/latest",
+    "system": "Home Assistant Community (Discourse)",
+    "title_ar": "مجتمع Home Assistant — أحدث المواضيع وتصنيفات المنتدى",
+    "ux_comment_ar": "جدول مواضيع نظيف بأعمدة الردود والمشاهدات والنشاط، وصور المشاركين في كل صف، وموضوعا ترحيب مثبّتان. ما يُقتبس: صور المشاركين في صف الموضوع لمعرفة النشاط بسرعة، وتلوين أعداد الردود المرتفعة. ما يُتجنب: إبقاء مواضيع ترحيب قديمة مثبّتة لسنوات في الأعلى."
+  },
+  {
+    "file": "07-freecodecamp-forum.png",
+    "page_url": "https://forum.freecodecamp.org/latest",
+    "source_url": "https://forum.freecodecamp.org/latest",
+    "system": "freeCodeCamp Forum (Discourse)",
+    "title_ar": "منتدى freeCodeCamp — قائمة أحدث المواضيع بالوضع الداكن",
+    "ux_comment_ar": "قائمة مواضيع داكنة بتبويبات التصنيفات والأحدث والأكثر رواجاً، مع شارة تصنيف ملوّنة لكل موضوع وأعداد الردود والمشاهدات. ما يُقتبس: الوضع الداكن بتباين جيد، وشارة التصنيف الملوّنة أسفل كل عنوان. ما يُتجنب: اختفاء القائمة الجانبية كلياً في الوضع الداكن."
+  },
+  {
+    "file": "08-github-community-discussions.png",
+    "page_url": "https://github.com/orgs/community/discussions",
+    "source_url": "https://github.com/orgs/community/discussions",
+    "system": "GitHub Community",
+    "title_ar": "مناقشات GitHub Community — بطاقات مميزة وقائمة تصنيفات",
+    "ux_comment_ar": "بطاقات لأبرز المناقشات في الأعلى، وقائمة جانبية للتصنيفات (منها الإعلانات)، وحقل بحث بفلاتر وفرز حسب آخر نشاط. ما يُقتبس: بطاقات «الأبرز» للإعلانات المهمة، وقائمة «الأكثر فائدة» في الشريط الجانبي. ما يُتجنب: تكرار المناقشة نفسها في البطاقات العلوية وفي القائمة."
+  },
+  {
+    "file": "09-github-announcements.png",
+    "page_url": "https://github.com/orgs/community/discussions/categories/announcements",
+    "source_url": "https://github.com/orgs/community/discussions/categories/announcements",
+    "system": "GitHub Community — Announcements",
+    "title_ar": "تصنيف الإعلانات في GitHub Community — إعلانات مثبّتة",
+    "ux_comment_ar": "صفحة تصنيف «الإعلانات» وحدها: إعلانات مثبّتة بشارة ANNOUNCEMENT خضراء، وعدد الأصوات والتعليقات لكل إعلان، وقائمة تصنيفات كاملة على اليسار. ما يُقتبس: صفحة إعلانات مستقلة بتصنيفها الخاص، وشارة إعلان ملوّنة لا تُخلط بالنقاش العادي. ما يُتجنب: خلط إعلانات الحوادث مع إعلانات الميزات دون تمييز بصري."
+  },
+  {
+    "file": "10-docker-forum-latest.png",
+    "page_url": "https://forums.docker.com/latest",
+    "source_url": "https://forums.docker.com/latest",
+    "system": "Docker Community Forums (Discourse)",
+    "title_ar": "منتدى Docker — صندوق ترحيب وتعليمات قبل قائمة المواضيع",
+    "ux_comment_ar": "صندوق ترحيب يشرح قواعد المشاركة وما يجب إرفاقه عند الإبلاغ عن مشكلة، وتحته تبويبات التصنيفات والأحدث وجدول المواضيع. ما يُقتبس: تعليمات المشاركة الواضحة أعلى المنتدى، وإرشاد المستخدم لما يرفقه مع سؤاله. ما يُتجنب: صندوق ترحيب طويل جداً يحجب قائمة المواضيع عن أول شاشة."
+  }
+]

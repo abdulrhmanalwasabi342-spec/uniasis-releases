@@ -1,0 +1,371 @@
+[
+  {
+    "category": "a-dashboards",
+    "file": "01-uniasis-login.png",
+    "page_url": "https://uniasis.onrender.com/login",
+    "source_url": "https://uniasis.onrender.com/login",
+    "system": "UniAxis",
+    "title_ar": "شاشة دخول UniAxis — اختيار الدور",
+    "ux_comment_ar": "المرجع الأساسي: هوية جامعية داكنة هادئة مع شعار الجامعة واختيار الدور قبل الدخول. ما يُقتبس: وضوح الأدوار الستة كبطاقات، والتباين العالي. ما يُتجنب: إخفاء حقول الدخول خلف خطوة اختيار إضافية."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "02-grafana-github.png",
+    "page_url": "https://play.grafana.org/d/cdgx261sa1ypsa/github-single-repo-with-overrides",
+    "source_url": "https://play.grafana.org/d/cdgx261sa1ypsa/github-single-repo-with-overrides",
+    "system": "Grafana Play",
+    "title_ar": "لوحة Grafana — بيانات GitHub الحية",
+    "ux_comment_ar": "لوحة داكنة بشريط جانبي ثابت وجدول بيانات ملوّن حسب الحالة (مفتوح/مغلق). ما يُقتبس: تلوين خلايا الحالة بدل النص فقط، وفلترة زمنية أعلى الصفحة. ما يُتجنب: كثرة اللوحات التوضيحية النصية قبل البيانات."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "03-matomo-analytics.png",
+    "page_url": "https://demo.matomo.org/",
+    "source_url": "https://demo.matomo.org/",
+    "system": "Matomo Demo",
+    "title_ar": "لوحة تحليلات Matomo — الزيارات لحظياً",
+    "ux_comment_ar": "قائمة جانبية مصنّفة حسب الوظيفة مع بطاقات رسومية وجدول تفصيلي وخريطة زوار. ما يُقتبس: تجميع التقارير في أقسام واضحة، وعرض الزيارات اللحظية. ما يُتجنب: ازدحام الصفحة بأكثر من ثلاث بطاقات في الصف الواحد."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "04-adminlte-dashboard.png",
+    "page_url": "https://adminlte.io/themes/v3/",
+    "source_url": "https://adminlte.io/themes/v3/",
+    "system": "AdminLTE 3",
+    "title_ar": "لوحة AdminLTE — بطاقات إحصائية ورسوم بيانية",
+    "ux_comment_ar": "بطاقات إحصائية ملوّنة بأرقام كبيرة مع رسم بياني وخريطة ومحادثة. ما يُقتبس: الرقم الكبير أولاً ثم التسمية، وزر «المزيد» في كل بطاقة. ما يُتجنب: الألوان الصارخة للبطاقات في نظام جامعي هادئ."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "05-adminlte-datatable.png",
+    "page_url": "https://adminlte.io/themes/v3/pages/tables/data.html",
+    "source_url": "https://adminlte.io/themes/v3/pages/tables/data.html",
+    "system": "AdminLTE 3",
+    "title_ar": "جدول بيانات AdminLTE — فرز وترقيم صفحات",
+    "ux_comment_ar": "جدول كثيف قابل للفرز مع ترقيم صفحات وعدد الصفوف الظاهر. ما يُقتبس: تثبيت رأس الجدول، وإظهار «عرض 1 إلى 10 من 57» بوضوح. ما يُتجنب: عرض كل الصفوف دفعة واحدة دون ترقيم."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "06-tabler-dashboard.png",
+    "page_url": "https://preview.tabler.io/",
+    "source_url": "https://preview.tabler.io/",
+    "system": "Tabler",
+    "title_ar": "لوحة Tabler — مؤشرات ورسوم مصغّرة",
+    "ux_comment_ar": "بطاقات نظيفة بخطوط مصغّرة (Sparkline) ومؤشر دائري لنسبة النشاط. ما يُقتبس: الرسوم المصغّرة داخل البطاقة لإظهار الاتجاه دون رسم كبير. ما يُتجنب: الرسوم التوضيحية الكرتونية في بطاقة الترحيب."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "07-tailadmin-ecommerce.png",
+    "page_url": "https://demo.tailadmin.com/",
+    "source_url": "https://demo.tailadmin.com/",
+    "system": "TailAdmin",
+    "title_ar": "لوحة TailAdmin — قائمة مجمّعة ومؤشر هدف",
+    "ux_comment_ar": "قائمة جانبية مجمّعة حسب الأقسام مع بحث بالأوامر ومؤشر هدف دائري. ما يُقتبس: تجميع القائمة في مجموعات (لوحات/تطبيقات)، وشريط البحث أعلى الصفحة. ما يُتجنب: شارات «جديد» الكثيرة التي تشتت الانتباه."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "08-adminkit-analytics.png",
+    "page_url": "https://demo.adminkit.io/",
+    "source_url": "https://demo.adminkit.io/",
+    "system": "AdminKit",
+    "title_ar": "لوحة AdminKit التحليلية — تقويم وخريطة زوار",
+    "ux_comment_ar": "بطاقات إحصائية مع نسب التغيّر، وتقويم وخريطة زوار ورسم دائري للمتصفحات في صف واحد. ما يُقتبس: نسبة التغيّر بلون أخضر/أحمر بجانب كل رقم، والجمع بين التقويم والخريطة. ما يُتجنب: إخفاء إعدادات المظهر في درج يغطي اللوحة عند أول فتح."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "09-sneat-analytics.png",
+    "page_url": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+    "source_url": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+    "system": "Sneat",
+    "title_ar": "لوحة Sneat التحليلية — إيرادات ونمو",
+    "ux_comment_ar": "رسم أعمدة لمقارنة سنتين مع مؤشر نمو دائري وبطاقات معاملات. ما يُقتبس: مقارنة السنة الحالية بالسابقة في رسم واحد، وتبديل السنة من قائمة منسدلة. ما يُتجنب: زر «الترقية» العائم فوق المحتوى."
+  },
+  {
+    "category": "a-dashboards",
+    "file": "10-plainadmin-ecommerce.png",
+    "page_url": "https://demo.plainadmin.com/",
+    "source_url": "https://demo.plainadmin.com/",
+    "system": "PlainAdmin",
+    "title_ar": "لوحة PlainAdmin — إحصاءات سنوية ومبيعات",
+    "ux_comment_ar": "تصميم خفيف وبسيط: أربع بطاقات إحصائية ثم رسمان كبيران للإحصاءات السنوية والمبيعات. ما يُقتبس: البساطة والمساحات البيضاء، وفلتر «سنوي» لكل رسم. ما يُتجنب: تكرار الرقم نفسه في أكثر من بطاقة دون معنى مختلف."
+  },
+  {
+    "category": "b-attendance",
+    "file": "01-timeedit-id2203-timetable.png",
+    "page_url": "https://cloud.timeedit.net/kth/web/public01/s.html?p=0.m,2.w&sid=10&object=ID2203-11663+%28VT27%29&startdate=20270112&enddate=20270312",
+    "source_url": "https://cloud.timeedit.net/kth/web/public01/s.html?p=0.m,2.w&sid=10&object=ID2203-11663+%28VT27%29&startdate=20270112&enddate=20270312",
+    "system": "TimeEdit (KTH)",
+    "title_ar": "جدول محاضرات TimeEdit — مقرر ID2203",
+    "ux_comment_ar": "شبكة أسبوعية للمحاضرات مع رمز القاعة ونوع النشاط، وأزرار اشتراك وتنزيل وفلترة أعلى الصفحة. ما يُقتبس: عرض الأسبوع كاملاً بخانات ملوّنة حسب المقرر، وزر الاشتراك بالتقويم. ما يُتجنب: أسابيع شبه فارغة تظهر معظمها خلايا بيضاء."
+  },
+  {
+    "category": "b-attendance",
+    "file": "02-dfe-pupil-attendance.png",
+    "page_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-attendance-in-schools/2026-week-43",
+    "source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-attendance-in-schools/2026-week-43",
+    "system": "DfE Explore Education Statistics",
+    "title_ar": "إحصاءات حضور التلاميذ — وزارة التعليم الإنجليزية",
+    "ux_comment_ar": "صفحة إحصاءات رسمية ببطاقات أرقام كبيرة (نسبة الغياب 7.01%) وروابط سريعة وفهرس «في هذه الصفحة». ما يُقتبس: الرقم الكبير أولاً ثم الفترة الزمنية تحته، وفهرس جانبي للأقسام. ما يُتجنب: نص طويل قبل الوصول إلى الأرقام."
+  },
+  {
+    "category": "b-attendance",
+    "file": "03-diraschool-grade4-timetable.png",
+    "page_url": "https://diraschool.com/tools/timetable-maker",
+    "source_url": "https://diraschool.com/tools/timetable-maker",
+    "system": "DiraSchool",
+    "title_ar": "منشئ جداول DiraSchool — جدول صف (الصف الرابع)",
+    "ux_comment_ar": "جدول صف أسبوعي: كل خلية فيها المادة والمعلم والقاعة، مع شريط «لا تعارضات» وفسحتي شاي وغداء. ما يُقتبس: المادة+المعلم+القاعة في الخلية الواحدة، وفحص التعارض الفوري. ما يُتجنب: ملاحظة «المسودة محفوظة في المتصفح فقط» أسفل الجدول."
+  },
+  {
+    "category": "b-attendance",
+    "file": "04-dfe-pupil-absence-autumn.png",
+    "page_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england/2025-26-autumn-term",
+    "source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england/2025-26-autumn-term",
+    "system": "DfE Explore Education Statistics",
+    "title_ar": "نسب غياب التلاميذ — الفصل الدراسي الخريفي",
+    "ux_comment_ar": "ثلاث بطاقات إحصائية (غياب كلي، غياب مستمر، غياب شديد) مع سؤال توضيحي تحت كل بطاقة. ما يُقتبس: سطر التعريف تحت كل رقم، وتمييز «ليست الأحدث» عند وجود إصدار أجدد. ما يُتجنب: تكرار الرقم نفسه في بطاقتين دون معنى مختلف."
+  },
+  {
+    "category": "b-attendance",
+    "file": "05-diraschool-teacher-timetable.png",
+    "page_url": "https://diraschool.com/tools/timetable-maker",
+    "source_url": "https://diraschool.com/tools/timetable-maker",
+    "system": "DiraSchool",
+    "title_ar": "منشئ جداول DiraSchool — جدول معلمة",
+    "ux_comment_ar": "عرض الجدول من جهة المعلم: قائمة منسدلة لاختيار المعلم ثم شبكة حصصه لكل الصفوف. ما يُقتبس: فلتر «المعلم» المنسدل أعلى الجدول، وعرض كل صفوف المعلم في شبكة واحدة. ما يُتجنب: خطوات الإعداد (1-2-3) أسفل الجدول تشتت عن المحتوى."
+  },
+  {
+    "category": "c-rosters",
+    "file": "01-tabler-users.png",
+    "page_url": "https://preview.tabler.io/users.html",
+    "source_url": "https://preview.tabler.io/users.html",
+    "system": "Tabler",
+    "title_ar": "قائمة مستخدمين Tabler — بطاقات بصور وأدوار",
+    "ux_comment_ar": "بطاقات مستخدمين بصور وشارات دور (مالك/مشرف) وزرَي بريد واتصال، مع عدّاد «1–18 من 413». ما يُقتبس: شارة الدور الملوّنة تحت الاسم، وإظهار العدد الكلي بوضوح. ما يُتجنب: شريط العرض الترويجي أعلى الصفحة."
+  },
+  {
+    "category": "c-rosters",
+    "file": "02-adminlte-contacts.png",
+    "page_url": "https://adminlte.io/themes/v3/pages/examples/contacts.html",
+    "source_url": "https://adminlte.io/themes/v3/pages/examples/contacts.html",
+    "system": "AdminLTE 3",
+    "title_ar": "بطاقات جهات اتصال AdminLTE",
+    "ux_comment_ar": "بطاقة جهة اتصال بصورة ونبذة وعنوان وهاتف وزر «عرض الملف». ما يُقتبس: تجميع بيانات التواصل (عنوان+هاتف) في البطاقة نفسها، وزر محادثة بجانب زر الملف. ما يُتجنب: تكرار الشخص التجريبي نفسه في كل البطاقات."
+  },
+  {
+    "category": "c-rosters",
+    "file": "03-stackoverflow-users.png",
+    "page_url": "https://stackoverflow.com/users",
+    "source_url": "https://stackoverflow.com/users",
+    "system": "Stack Overflow",
+    "title_ar": "دليل مستخدمي Stack Overflow — فلترة وسمعة",
+    "ux_comment_ar": "بحث «فلترة حسب المستخدم» مع تبويبات (السمعة/الجدد/المصوّتون/المحررون/المشرفون) وفلتر زمني أسبوع/شهر/ربع/سنة. ما يُقتبس: الفرز حسب السمعة مع فلتر زمني، وإظهار الموقع والاهتمامات تحت الاسم. ما يُتجنب: صندوق الترويج الجانبي."
+  },
+  {
+    "category": "c-rosters",
+    "file": "04-github-bootstrap-people.png",
+    "page_url": "https://github.com/orgs/twbs/people",
+    "source_url": "https://github.com/orgs/twbs/people",
+    "system": "GitHub — Bootstrap org",
+    "title_ar": "أعضاء منظمة GitHub — قائمة بسيطة",
+    "ux_comment_ar": "صفوف أعضاء نظيفة: صورة واسم واسم مستخدم وزر متابعة، مع بحث «ابحث عن عضو». ما يُقتبس: الصف البسيط بلا زخرفة، وبحث الأعضاء أعلى القائمة. ما يُتجنب: ظهور «جارٍ التحميل…» بدل البيانات."
+  },
+  {
+    "category": "c-rosters",
+    "file": "05-tabler-users-table.png",
+    "page_url": "https://preview.tabler.io/tables.html",
+    "source_url": "https://preview.tabler.io/tables.html",
+    "system": "Tabler",
+    "title_ar": "جدول مستخدمين Tabler — الاسم والبريد والدور",
+    "ux_comment_ar": "جدول أساسي بأعمدة الاسم واللقب والبريد والدور مع زر «تعديل» في كل صف، وصفوف مخططة. ما يُقتبس: عمود الدور (مستخدم/مالك/مشرف) وزر التعديل في كل صف. ما يُتجنب: خلط لوحة ثانية غير مرتبطة (أكثر الصفحات زيارة) في نفس العرض."
+  },
+  {
+    "category": "c-rosters",
+    "file": "06-github-microsoft-people.png",
+    "page_url": "https://github.com/orgs/microsoft/people",
+    "source_url": "https://github.com/orgs/microsoft/people",
+    "system": "GitHub Organizations",
+    "title_ar": "قائمة أعضاء منظمة Microsoft على GitHub",
+    "ux_comment_ar": "جدول أعضاء (الصورة، الاسم، الدور) مع بحث وفلترة أعلاه. ما يُقتبس: البحث والفلترة فوق الجدول، وأعمدة الصورة والاسم والدور. ما يُتجنب: قوائم بلا بحث عند كثرة الأعضاء."
+  },
+  {
+    "category": "c-rosters",
+    "file": "07-discourse-meta-users.png",
+    "page_url": "https://meta.discourse.org/u",
+    "source_url": "https://meta.discourse.org/u",
+    "system": "Discourse Meta",
+    "title_ar": "قائمة مستخدمي منتدى Discourse Meta",
+    "ux_comment_ar": "جدول ترتيب أسبوعي للمستخدمين، 69,806 مستخدمين. ما يُقتبس: الترتيب الأسبوعي كمدخل سريع لأكثر الأعضاء نشاطاً. ما يُتجنب: أرقام ضخمة بلا سياق زمني."
+  },
+  {
+    "category": "c-rosters",
+    "file": "08-github-apache-people.png",
+    "page_url": "https://github.com/orgs/apache/people",
+    "source_url": "https://github.com/orgs/apache/people",
+    "system": "GitHub Organizations",
+    "title_ar": "قائمة أعضاء منظمة Apache على GitHub",
+    "ux_comment_ar": "جدول أعضاء (الصورة، الاسم، الدور) مع بحث وفلترة أعلاه. ما يُقتبس: نفس بنية جدول Microsoft — توحيد أعمدة الأعضاء عبر المنظمات. ما يُتجنب: إخفاء الدور خلف نقرة إضافية."
+  },
+  {
+    "category": "c-rosters",
+    "file": "09-gitlab-group-members.png",
+    "page_url": "https://gitlab.com/groups/gitlab-org/-/group_members",
+    "source_url": "https://gitlab.com/groups/gitlab-org/-/group_members",
+    "system": "GitLab",
+    "title_ar": "أعضاء مجموعة GitLab.org (2,865 عضواً)",
+    "ux_comment_ar": "جدول أعضاء بأعمدة الحساب والمصدر والدور والنشاط، 2,865 عضواً. ما يُقتبس: عمود النشاط الأخير بجانب الدور. ما يُتجنب: عرض كل الأعضاء دفعة واحدة دون ترقيم صفحات."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "01-dfe-ks4-performance.png",
+    "page_url": "https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance/2025-26",
+    "source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance/2025-26",
+    "system": "DfE Explore Education Statistics",
+    "title_ar": "أداء المرحلة Key Stage 4 — وزارة التعليم الإنجليزية",
+    "ux_comment_ar": "ثلاث بطاقات إحصائية زرقاء (Attainment 8: 46.2؛ درجات 5+ إنجليزي ورياضيات: 46.3%؛ مؤشر الفجوة: 3.82). ما يُقتبس: الرقم الكبير أولاً ثم الشرح تحته. ما يُتجنب: بطاقات بلا تعريف للمصطلح."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "02-ausgrader-hsc-timetable.png",
+    "page_url": "https://www.ausgrader.com/hsc/guides/exam-timetable",
+    "source_url": "https://www.ausgrader.com/hsc/guides/exam-timetable",
+    "system": "AusGrader",
+    "title_ar": "جدول امتحانات HSC يوماً بيوم",
+    "ux_comment_ar": "جدول امتحانات يوماً بيوم (الثلاثاء 13 أكتوبر، 9:50–11:30 English Advanced Paper 1…). ما يُقتبس: اليوم والتاريخ والوقت والمادة في صف واحد. ما يُتجنب: فصل التاريخ عن الوقت في عمودين بعيدين."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "03-edupage-anss-timetable.png",
+    "page_url": "https://anss.edupage.org/timetable/",
+    "source_url": "https://anss.edupage.org/timetable/",
+    "system": "EduPage",
+    "title_ar": "جدول الحصص الأسبوعي — Arima North Secondary",
+    "ux_comment_ar": "شبكة حصص أسبوعية (Form 1:1، 2026–2027)، الاثنين–الجمعة، الحصص 1–8 مع القاعات. ما يُقتبس: المادة والمعلم والقاعة في الخلية الواحدة. ما يُتجنب: خلايا فارغة كثيرة بلا تمييز للفسح."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "04-mit-ocw-ai-calendar.png",
+    "page_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/calendar/",
+    "source_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/calendar/",
+    "system": "MIT OpenCourseWare",
+    "title_ar": "تقويم مقرر الذكاء الاصطناعي 6.034 — MIT",
+    "ux_comment_ar": "جدول تقويم المقرر بأعمدة رقم المحاضرة والموضوع والتواريخ المهمة. ما يُقتبس: ربط كل محاضرة بموضوعها وتاريخها في صف واحد. ما يُتجنب: تواريخ بلا موضوع."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "05-mit-ocw-dynamics-calendar.png",
+    "page_url": "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/calendar/",
+    "source_url": "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/calendar/",
+    "system": "MIT OpenCourseWare",
+    "title_ar": "تقويم مقرر الديناميكا 16.07 — MIT",
+    "ux_comment_ar": "جدول تقويم المقرر بأعمدة رقم المحاضرة والموضوع والتواريخ المهمة. ما يُقتبس: نفس بنية تقويم MIT AI — توحيد أعمدة التقويم عبر المقررات. ما يُتجنب: مواضيع بلا أرقام محاضرات."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "06-unitime-classes.png",
+    "page_url": "https://demo.unitime.org/UniTime/classes?name=ALG&term=Fal2010woebegon",
+    "source_url": "https://demo.unitime.org/UniTime/classes?name=ALG&term=Fal2010woebegon",
+    "system": "UniTime",
+    "title_ar": "بحث الحصص الدراسية — UniTime",
+    "ux_comment_ar": "بحث الحصص: جدول ALG 101 (MWF 9:30a–10:20a) وEDUC 103 مع اسم المدرّس. ما يُقتبس: البحث بالرمز ثم الجدول بالأيام والأوقات. ما يُتجنب: نتائج بلا أيام الأسبوع."
+  },
+  {
+    "category": "d-schedules-grades",
+    "file": "07-ausgrader-wace-timetable.png",
+    "page_url": "https://ausgrader.com/wace/guides/exam-timetable",
+    "source_url": "https://ausgrader.com/wace/guides/exam-timetable",
+    "system": "AusGrader",
+    "title_ar": "جدول امتحانات WACE يوماً بيوم",
+    "ux_comment_ar": "جدول امتحانات WACE يوماً بيوم. ما يُقتبس: اليوم والتاريخ والوقت والمادة في صف واحد. ما يُتجنب: فصل التاريخ عن الوقت."
+  },
+  {
+    "category": "e-messages",
+    "file": "01-discourse-try-latest.png",
+    "page_url": "https://try.discourse.org/",
+    "source_url": "https://try.discourse.org/",
+    "system": "Discourse Demo",
+    "title_ar": "منتدى Discourse التجريبي — قائمة أحدث المواضيع",
+    "ux_comment_ar": "قائمة جانبية للتصنيفات والقنوات مع تبويبات «الأحدث/الساخن/التصنيفات» وموضوع مثبّت أعلى القائمة. ما يُقتبس: تثبيت الإعلانات المهمة في الأعلى، وشارة «مثبّت» واضحة. ما يُتجنب: عناوين مواضيع تجريبية بلا معنى في صفحة حقيقية."
+  },
+  {
+    "category": "e-messages",
+    "file": "02-elastic-discourse-latest.png",
+    "page_url": "https://discuss.elastic.co/latest",
+    "source_url": "https://discuss.elastic.co/latest",
+    "system": "Elastic Discuss (Discourse)",
+    "title_ar": "منتدى Elastic — أحدث النقاشات مع تصنيف الإعلانات",
+    "ux_comment_ar": "قائمة مواضيع بأعمدة الردود والمشاهدات وآخر نشاط، مع تصنيف «الإعلانات» في القائمة الجانبية وموضوع ترحيبي مثبّت. ما يُقتبس: أعمدة الردود والمشاهدات والنشاط في صف واحد، وتمييز المواضيع المثبّتة بقفل وشارة. ما يُتجنب: ازدحام القائمة الجانبية بوسوم كثيرة."
+  },
+  {
+    "category": "e-messages",
+    "file": "03-flarum-discussions.png",
+    "page_url": "https://discuss.flarum.org/",
+    "source_url": "https://discuss.flarum.org/",
+    "system": "Flarum Community",
+    "title_ar": "مجتمع Flarum — قائمة النقاشات وإحصاءات المجتمع",
+    "ux_comment_ar": "بطاقة «تحتاج مساعدة؟» مع بحث ودليل استكشاف أخطاء، وقائمة أسئلة بلا إجابة، ولوحة إحصاءات وأفضل المساهمين. ما يُقتبس: قسم «ساعد الآخرين» للأسئلة المعلّقة، وإحصاءات المجتمع الحية. ما يُتجنب: بانر الترحيب الكبير الذي يدفع النقاشات أسفل الشاشة."
+  },
+  {
+    "category": "e-messages",
+    "file": "04-nodebb-try-topics.png",
+    "page_url": "https://try.nodebb.org/",
+    "source_url": "https://try.nodebb.org/",
+    "system": "NodeBB Demo",
+    "title_ar": "منتدى NodeBB التجريبي — تصنيفات النقاش وشريط إعلان",
+    "ux_comment_ar": "شريط إعلان أصفر أعلى الصفحة يشرح حالة النظام، وتحته تصنيفات بأعداد المواضيع والمشاركات وآخر مشاركة. ما يُقتبس: شريط إعلان بارز ومختصر للإعلانات المهمة، وعرض عدد المواضيع والمشاركات لكل قسم. ما يُتجنب: ترك أقسام فارغة بلا محتوى في العرض الأول."
+  },
+  {
+    "category": "e-messages",
+    "file": "05-grafana-community-latest.png",
+    "page_url": "https://community.grafana.com/latest",
+    "source_url": "https://community.grafana.com/latest",
+    "system": "Grafana Community (Discourse)",
+    "title_ar": "مجتمع Grafana — إعلان استبيان ومواضيع إعلانية مثبّتة",
+    "ux_comment_ar": "بطاقة إعلان زرقاء قابلة للإغلاق أعلى القائمة، ومواضيع إعلانية مثبّتة مع شارة التصنيف وعدد الردود والمشاهدات. ما يُقتبس: بطاقة الإعلان القابلة للإغلاق بزر X، وتمييز الإعلانات الرسمية عن النقاشات العادية. ما يُتجنب: إعلان طويل يحتل نصف الشاشة قبل وصول القائمة."
+  },
+  {
+    "category": "e-messages",
+    "file": "06-home-assistant-community.png",
+    "page_url": "https://community.home-assistant.io/latest",
+    "source_url": "https://community.home-assistant.io/latest",
+    "system": "Home Assistant Community (Discourse)",
+    "title_ar": "مجتمع Home Assistant — أحدث المواضيع وتصنيفات المنتدى",
+    "ux_comment_ar": "جدول مواضيع نظيف بأعمدة الردود والمشاهدات والنشاط، وصور المشاركين في كل صف، وموضوعا ترحيب مثبّتان. ما يُقتبس: صور المشاركين في صف الموضوع لمعرفة النشاط بسرعة، وتلوين أعداد الردود المرتفعة. ما يُتجنب: إبقاء مواضيع ترحيب قديمة مثبّتة لسنوات في الأعلى."
+  },
+  {
+    "category": "e-messages",
+    "file": "07-freecodecamp-forum.png",
+    "page_url": "https://forum.freecodecamp.org/latest",
+    "source_url": "https://forum.freecodecamp.org/latest",
+    "system": "freeCodeCamp Forum (Discourse)",
+    "title_ar": "منتدى freeCodeCamp — قائمة أحدث المواضيع بالوضع الداكن",
+    "ux_comment_ar": "قائمة مواضيع داكنة بتبويبات التصنيفات والأحدث والأكثر رواجاً، مع شارة تصنيف ملوّنة لكل موضوع وأعداد الردود والمشاهدات. ما يُقتبس: الوضع الداكن بتباين جيد، وشارة التصنيف الملوّنة أسفل كل عنوان. ما يُتجنب: اختفاء القائمة الجانبية كلياً في الوضع الداكن."
+  },
+  {
+    "category": "e-messages",
+    "file": "08-github-community-discussions.png",
+    "page_url": "https://github.com/orgs/community/discussions",
+    "source_url": "https://github.com/orgs/community/discussions",
+    "system": "GitHub Community",
+    "title_ar": "مناقشات GitHub Community — بطاقات مميزة وقائمة تصنيفات",
+    "ux_comment_ar": "بطاقات لأبرز المناقشات في الأعلى، وقائمة جانبية للتصنيفات (منها الإعلانات)، وحقل بحث بفلاتر وفرز حسب آخر نشاط. ما يُقتبس: بطاقات «الأبرز» للإعلانات المهمة، وقائمة «الأكثر فائدة» في الشريط الجانبي. ما يُتجنب: تكرار المناقشة نفسها في البطاقات العلوية وفي القائمة."
+  },
+  {
+    "category": "e-messages",
+    "file": "09-github-announcements.png",
+    "page_url": "https://github.com/orgs/community/discussions/categories/announcements",
+    "source_url": "https://github.com/orgs/community/discussions/categories/announcements",
+    "system": "GitHub Community — Announcements",
+    "title_ar": "تصنيف الإعلانات في GitHub Community — إعلانات مثبّتة",
+    "ux_comment_ar": "صفحة تصنيف «الإعلانات» وحدها: إعلانات مثبّتة بشارة ANNOUNCEMENT خضراء، وعدد الأصوات والتعليقات لكل إعلان، وقائمة تصنيفات كاملة على اليسار. ما يُقتبس: صفحة إعلانات مستقلة بتصنيفها الخاص، وشارة إعلان ملوّنة لا تُخلط بالنقاش العادي. ما يُتجنب: خلط إعلانات الحوادث مع إعلانات الميزات دون تمييز بصري."
+  },
+  {
+    "category": "e-messages",
+    "file": "10-docker-forum-latest.png",
+    "page_url": "https://forums.docker.com/latest",
+    "source_url": "https://forums.docker.com/latest",
+    "system": "Docker Community Forums (Discourse)",
+    "title_ar": "منتدى Docker — صندوق ترحيب وتعليمات قبل قائمة المواضيع",
+    "ux_comment_ar": "صندوق ترحيب يشرح قواعد المشاركة وما يجب إرفاقه عند الإبلاغ عن مشكلة، وتحته تبويبات التصنيفات والأحدث وجدول المواضيع. ما يُقتبس: تعليمات المشاركة الواضحة أعلى المنتدى، وإرشاد المستخدم لما يرفقه مع سؤاله. ما يُتجنب: صندوق ترحيب طويل جداً يحجب قائمة المواضيع عن أول شاشة."
+  }
+]

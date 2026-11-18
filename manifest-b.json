@@ -1,0 +1,42 @@
+[
+  {
+    "file": "01-timeedit-id2203-timetable.png",
+    "page_url": "https://cloud.timeedit.net/kth/web/public01/s.html?p=0.m,2.w&sid=10&object=ID2203-11663+%28VT27%29&startdate=20270112&enddate=20270312",
+    "source_url": "https://cloud.timeedit.net/kth/web/public01/s.html?p=0.m,2.w&sid=10&object=ID2203-11663+%28VT27%29&startdate=20270112&enddate=20270312",
+    "system": "TimeEdit (KTH)",
+    "title_ar": "جدول محاضرات TimeEdit — مقرر ID2203",
+    "ux_comment_ar": "شبكة أسبوعية للمحاضرات مع رمز القاعة ونوع النشاط، وأزرار اشتراك وتنزيل وفلترة أعلى الصفحة. ما يُقتبس: عرض الأسبوع كاملاً بخانات ملوّنة حسب المقرر، وزر الاشتراك بالتقويم. ما يُتجنب: أسابيع شبه فارغة تظهر معظمها خلايا بيضاء."
+  },
+  {
+    "file": "02-dfe-pupil-attendance.png",
+    "page_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-attendance-in-schools/2026-week-43",
+    "source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-attendance-in-schools/2026-week-43",
+    "system": "DfE Explore Education Statistics",
+    "title_ar": "إحصاءات حضور التلاميذ — وزارة التعليم الإنجليزية",
+    "ux_comment_ar": "صفحة إحصاءات رسمية ببطاقات أرقام كبيرة (نسبة الغياب 7.01%) وروابط سريعة وفهرس «في هذه الصفحة». ما يُقتبس: الرقم الكبير أولاً ثم الفترة الزمنية تحته، وفهرس جانبي للأقسام. ما يُتجنب: نص طويل قبل الوصول إلى الأرقام."
+  },
+  {
+    "file": "03-diraschool-grade4-timetable.png",
+    "page_url": "https://diraschool.com/tools/timetable-maker",
+    "source_url": "https://diraschool.com/tools/timetable-maker",
+    "system": "DiraSchool",
+    "title_ar": "منشئ جداول DiraSchool — جدول صف (الصف الرابع)",
+    "ux_comment_ar": "جدول صف أسبوعي: كل خلية فيها المادة والمعلم والقاعة، مع شريط «لا تعارضات» وفسحتي شاي وغداء. ما يُقتبس: المادة+المعلم+القاعة في الخلية الواحدة، وفحص التعارض الفوري. ما يُتجنب: ملاحظة «المسودة محفوظة في المتصفح فقط» أسفل الجدول."
+  },
+  {
+    "file": "04-dfe-pupil-absence-autumn.png",
+    "page_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england/2025-26-autumn-term",
+    "source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england/2025-26-autumn-term",
+    "system": "DfE Explore Education Statistics",
+    "title_ar": "نسب غياب التلاميذ — الفصل الدراسي الخريفي",
+    "ux_comment_ar": "ثلاث بطاقات إحصائية (غياب كلي، غياب مستمر، غياب شديد) مع سؤال توضيحي تحت كل بطاقة. ما يُقتبس: سطر التعريف تحت كل رقم، وتمييز «ليست الأحدث» عند وجود إصدار أجدد. ما يُتجنب: تكرار الرقم نفسه في بطاقتين دون معنى مختلف."
+  },
+  {
+    "file": "05-diraschool-teacher-timetable.png",
+    "page_url": "https://diraschool.com/tools/timetable-maker",
+    "source_url": "https://diraschool.com/tools/timetable-maker",
+    "system": "DiraSchool",
+    "title_ar": "منشئ جداول DiraSchool — جدول معلمة",
+    "ux_comment_ar": "عرض الجدول من جهة المعلم: قائمة منسدلة لاختيار المعلم ثم شبكة حصصه لكل الصفوف. ما يُقتبس: فلتر «المعلم» المنسدل أعلى الجدول، وعرض كل صفوف المعلم في شبكة واحدة. ما يُتجنب: خطوات الإعداد (1-2-3) أسفل الجدول تشتت عن المحتوى."
+  }
+]

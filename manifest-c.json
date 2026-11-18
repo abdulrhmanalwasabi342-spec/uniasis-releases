@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01-tabler-users.png",
+    "page_url": "https://preview.tabler.io/users.html",
+    "source_url": "https://preview.tabler.io/users.html",
+    "system": "Tabler",
+    "title_ar": "قائمة مستخدمين Tabler — بطاقات بصور وأدوار",
+    "ux_comment_ar": "بطاقات مستخدمين بصور وشارات دور (مالك/مشرف) وزرَي بريد واتصال، مع عدّاد «1–18 من 413». ما يُقتبس: شارة الدور الملوّنة تحت الاسم، وإظهار العدد الكلي بوضوح. ما يُتجنب: شريط العرض الترويجي أعلى الصفحة."
+  },
+  {
+    "file": "02-adminlte-contacts.png",
+    "page_url": "https://adminlte.io/themes/v3/pages/examples/contacts.html",
+    "source_url": "https://adminlte.io/themes/v3/pages/examples/contacts.html",
+    "system": "AdminLTE 3",
+    "title_ar": "بطاقات جهات اتصال AdminLTE",
+    "ux_comment_ar": "بطاقة جهة اتصال بصورة ونبذة وعنوان وهاتف وزر «عرض الملف». ما يُقتبس: تجميع بيانات التواصل (عنوان+هاتف) في البطاقة نفسها، وزر محادثة بجانب زر الملف. ما يُتجنب: تكرار الشخص التجريبي نفسه في كل البطاقات."
+  },
+  {
+    "file": "03-stackoverflow-users.png",
+    "page_url": "https://stackoverflow.com/users",
+    "source_url": "https://stackoverflow.com/users",
+    "system": "Stack Overflow",
+    "title_ar": "دليل مستخدمي Stack Overflow — فلترة وسمعة",
+    "ux_comment_ar": "بحث «فلترة حسب المستخدم» مع تبويبات (السمعة/الجدد/المصوّتون/المحررون/المشرفون) وفلتر زمني أسبوع/شهر/ربع/سنة. ما يُقتبس: الفرز حسب السمعة مع فلتر زمني، وإظهار الموقع والاهتمامات تحت الاسم. ما يُتجنب: صندوق الترويج الجانبي."
+  },
+  {
+    "file": "04-github-bootstrap-people.png",
+    "page_url": "https://github.com/orgs/twbs/people",
+    "source_url": "https://github.com/orgs/twbs/people",
+    "system": "GitHub — Bootstrap org",
+    "title_ar": "أعضاء منظمة GitHub — قائمة بسيطة",
+    "ux_comment_ar": "صفوف أعضاء نظيفة: صورة واسم واسم مستخدم وزر متابعة، مع بحث «ابحث عن عضو». ما يُقتبس: الصف البسيط بلا زخرفة، وبحث الأعضاء أعلى القائمة. ما يُتجنب: ظهور «جارٍ التحميل…» بدل البيانات."
+  },
+  {
+    "file": "05-tabler-users-table.png",
+    "page_url": "https://preview.tabler.io/tables.html",
+    "source_url": "https://preview.tabler.io/tables.html",
+    "system": "Tabler",
+    "title_ar": "جدول مستخدمين Tabler — الاسم والبريد والدور",
+    "ux_comment_ar": "جدول أساسي بأعمدة الاسم واللقب والبريد والدور مع زر «تعديل» في كل صف، وصفوف مخططة. ما يُقتبس: عمود الدور (مستخدم/مالك/مشرف) وزر التعديل في كل صف. ما يُتجنب: خلط لوحة ثانية غير مرتبطة (أكثر الصفحات زيارة) في نفس العرض."
+  },
+  {
+    "file": "06-github-microsoft-people.png",
+    "page_url": "https://github.com/orgs/microsoft/people",
+    "source_url": "https://github.com/orgs/microsoft/people",
+    "system": "GitHub Organizations",
+    "title_ar": "قائمة أعضاء منظمة Microsoft على GitHub",
+    "ux_comment_ar": "جدول أعضاء (الصورة، الاسم، الدور) مع بحث وفلترة أعلاه. ما يُقتبس: البحث والفلترة فوق الجدول، وأعمدة الصورة والاسم والدور. ما يُتجنب: قوائم بلا بحث عند كثرة الأعضاء."
+  },
+  {
+    "file": "07-discourse-meta-users.png",
+    "page_url": "https://meta.discourse.org/u",
+    "source_url": "https://meta.discourse.org/u",
+    "system": "Discourse Meta",
+    "title_ar": "قائمة مستخدمي منتدى Discourse Meta",
+    "ux_comment_ar": "جدول ترتيب أسبوعي للمستخدمين، 69,806 مستخدمين. ما يُقتبس: الترتيب الأسبوعي كمدخل سريع لأكثر الأعضاء نشاطاً. ما يُتجنب: أرقام ضخمة بلا سياق زمني."
+  },
+  {
+    "file": "08-github-apache-people.png",
+    "page_url": "https://github.com/orgs/apache/people",
+    "source_url": "https://github.com/orgs/apache/people",
+    "system": "GitHub Organizations",
+    "title_ar": "قائمة أعضاء منظمة Apache على GitHub",
+    "ux_comment_ar": "جدول أعضاء (الصورة، الاسم، الدور) مع بحث وفلترة أعلاه. ما يُقتبس: نفس بنية جدول Microsoft — توحيد أعمدة الأعضاء عبر المنظمات. ما يُتجنب: إخفاء الدور خلف نقرة إضافية."
+  },
+  {
+    "file": "09-gitlab-group-members.png",
+    "page_url": "https://gitlab.com/groups/gitlab-org/-/group_members",
+    "source_url": "https://gitlab.com/groups/gitlab-org/-/group_members",
+    "system": "GitLab",
+    "title_ar": "أعضاء مجموعة GitLab.org (2,865 عضواً)",
+    "ux_comment_ar": "جدول أعضاء بأعمدة الحساب والمصدر والدور والنشاط، 2,865 عضواً. ما يُقتبس: عمود النشاط الأخير بجانب الدور. ما يُتجنب: عرض كل الأعضاء دفعة واحدة دون ترقيم صفحات."
+  }
+]

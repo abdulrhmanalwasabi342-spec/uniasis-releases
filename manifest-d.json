@@ -1,0 +1,58 @@
+[
+  {
+    "file": "01-dfe-ks4-performance.png",
+    "page_url": "https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance/2025-26",
+    "source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance/2025-26",
+    "system": "DfE Explore Education Statistics",
+    "title_ar": "أداء المرحلة Key Stage 4 — وزارة التعليم الإنجليزية",
+    "ux_comment_ar": "ثلاث بطاقات إحصائية زرقاء (Attainment 8: 46.2؛ درجات 5+ إنجليزي ورياضيات: 46.3%؛ مؤشر الفجوة: 3.82). ما يُقتبس: الرقم الكبير أولاً ثم الشرح تحته. ما يُتجنب: بطاقات بلا تعريف للمصطلح."
+  },
+  {
+    "file": "02-ausgrader-hsc-timetable.png",
+    "page_url": "https://www.ausgrader.com/hsc/guides/exam-timetable",
+    "source_url": "https://www.ausgrader.com/hsc/guides/exam-timetable",
+    "system": "AusGrader",
+    "title_ar": "جدول امتحانات HSC يوماً بيوم",
+    "ux_comment_ar": "جدول امتحانات يوماً بيوم (الثلاثاء 13 أكتوبر، 9:50–11:30 English Advanced Paper 1…). ما يُقتبس: اليوم والتاريخ والوقت والمادة في صف واحد. ما يُتجنب: فصل التاريخ عن الوقت في عمودين بعيدين."
+  },
+  {
+    "file": "03-edupage-anss-timetable.png",
+    "page_url": "https://anss.edupage.org/timetable/",
+    "source_url": "https://anss.edupage.org/timetable/",
+    "system": "EduPage",
+    "title_ar": "جدول الحصص الأسبوعي — Arima North Secondary",
+    "ux_comment_ar": "شبكة حصص أسبوعية (Form 1:1، 2026–2027)، الاثنين–الجمعة، الحصص 1–8 مع القاعات. ما يُقتبس: المادة والمعلم والقاعة في الخلية الواحدة. ما يُتجنب: خلايا فارغة كثيرة بلا تمييز للفسح."
+  },
+  {
+    "file": "04-mit-ocw-ai-calendar.png",
+    "page_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/calendar/",
+    "source_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/calendar/",
+    "system": "MIT OpenCourseWare",
+    "title_ar": "تقويم مقرر الذكاء الاصطناعي 6.034 — MIT",
+    "ux_comment_ar": "جدول تقويم المقرر بأعمدة رقم المحاضرة والموضوع والتواريخ المهمة. ما يُقتبس: ربط كل محاضرة بموضوعها وتاريخها في صف واحد. ما يُتجنب: تواريخ بلا موضوع."
+  },
+  {
+    "file": "05-mit-ocw-dynamics-calendar.png",
+    "page_url": "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/calendar/",
+    "source_url": "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/calendar/",
+    "system": "MIT OpenCourseWare",
+    "title_ar": "تقويم مقرر الديناميكا 16.07 — MIT",
+    "ux_comment_ar": "جدول تقويم المقرر بأعمدة رقم المحاضرة والموضوع والتواريخ المهمة. ما يُقتبس: نفس بنية تقويم MIT AI — توحيد أعمدة التقويم عبر المقررات. ما يُتجنب: مواضيع بلا أرقام محاضرات."
+  },
+  {
+    "file": "06-unitime-classes.png",
+    "page_url": "https://demo.unitime.org/UniTime/classes?name=ALG&term=Fal2010woebegon",
+    "source_url": "https://demo.unitime.org/UniTime/classes?name=ALG&term=Fal2010woebegon",
+    "system": "UniTime",
+    "title_ar": "بحث الحصص الدراسية — UniTime",
+    "ux_comment_ar": "بحث الحصص: جدول ALG 101 (MWF 9:30a–10:20a) وEDUC 103 مع اسم المدرّس. ما يُقتبس: البحث بالرمز ثم الجدول بالأيام والأوقات. ما يُتجنب: نتائج بلا أيام الأسبوع."
+  },
+  {
+    "file": "07-ausgrader-wace-timetable.png",
+    "page_url": "https://ausgrader.com/wace/guides/exam-timetable",
+    "source_url": "https://ausgrader.com/wace/guides/exam-timetable",
+    "system": "AusGrader",
+    "title_ar": "جدول امتحانات WACE يوماً بيوم",
+    "ux_comment_ar": "جدول امتحانات WACE يوماً بيوم. ما يُقتبس: اليوم والتاريخ والوقت والمادة في صف واحد. ما يُتجنب: فصل التاريخ عن الوقت."
+  }
+]
